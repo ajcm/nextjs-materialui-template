@@ -1,5 +1,11 @@
 # Next.js example
 
+#### materialui-blog
+Blog and materialui template
+
+#### homepage
+Homepage template
+
 ## How to use
 
 Download the example [or clone the repo](https://github.com/mui-org/material-ui):
