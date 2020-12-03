@@ -3,7 +3,8 @@
 
 ### NextJs and Material UI
 
-** Live at  **
+**Live at**
+
 https://nextjs.kitboga.net/
 
 https://nextjs-materialui-template.vercel.app/
@@ -14,8 +15,8 @@ https://nextjs-materialui-template.vercel.app/
 
 [Example](https://github.com/mui-org/material-ui)
 
-[Example 2] (https://github.com/mui-org/material-ui/tree/master/examples/nextjs)
+[Example 2](https://github.com/mui-org/material-ui/tree/master/examples/nextjs)
 
-[NextJs and Material UI] (https://itnext.io/next-js-with-material-ui-7a7f6485f671)
+[NextJs and Material UI](https://itnext.io/next-js-with-material-ui-7a7f6485f671)
 
 
