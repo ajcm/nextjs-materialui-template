@@ -25,9 +25,9 @@ function Main(props) {
       <Divider />
 
       <Typography variant="subtitle" gutterBottom>
-      <p>MaterialUI Documentation <a href="https://github.com/mui-org/material-ui/tree/master/examples/nextjs">https://github.com/mui-org/material-ui/tree/master/examples/nextjs</a></p>
-      <p>Next.js with Material-UI <a href="https://itnext.io/next-js-with-material-ui-7a7f6485f671">https://itnext.io/next-js-with-material-ui-7a7f6485f671</a></p>
-      <p>Next.js with Material-UI (Git) <a href="https://github.com/hadnazzar/nextjs-with-material-ui">https://github.com/hadnazzar/nextjs-with-material-ui</a></p>
+      <p>MaterialUI Documentation: <a href="https://github.com/mui-org/material-ui/tree/master/examples/nextjs">https://github.com/mui-org/material-ui/tree/master/examples/nextjs</a></p>
+      <p>Next.js with Material-UI: <a href="https://itnext.io/next-js-with-material-ui-7a7f6485f671">https://itnext.io/next-js-with-material-ui-7a7f6485f671</a></p>
+      <p>Next.js with Material-UI (Git): <a href="https://github.com/hadnazzar/nextjs-with-material-ui">https://github.com/hadnazzar/nextjs-with-material-ui</a></p>
       </Typography>
 
       {/*posts.map((post) => (
